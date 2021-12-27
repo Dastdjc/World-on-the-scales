@@ -48,7 +48,7 @@ null,
 {"id":46,"expanded":false,"name":"Ciudad-Cárcel","order":46,"parentId":0,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":47,"expanded":true,"name":"Cárcel","order":47,"parentId":46,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":48,"expanded":false,"name":"Ciudad-Camino exterior","order":48,"parentId":0,"scrollX":1092,"scrollY":641.3333333333334},
-{"id":49,"expanded":true,"name":"Tiburnia","order":51,"parentId":0,"scrollX":1216,"scrollY":710.6666666666666},
+{"id":49,"expanded":true,"name":"Tiburnia","order":51,"parentId":0,"scrollX":1216,"scrollY":737.3333333333334},
 {"id":50,"expanded":true,"name":"Posada (Piso 1)","order":49,"parentId":48,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":51,"expanded":false,"name":"Posada (Piso 2)","order":50,"parentId":50,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":52,"expanded":false,"name":"Tacio","order":52,"parentId":49,"scrollX":1092,"scrollY":641.3333333333334}
