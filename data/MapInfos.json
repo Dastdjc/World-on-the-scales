@@ -37,7 +37,7 @@ null,
 {"id":35,"expanded":true,"name":"Despacho Druso","order":12,"parentId":14,"scrollX":982.8,"scrollY":577.1999999999999},
 {"id":36,"expanded":false,"name":"Trailer","order":36,"parentId":0,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":37,"expanded":false,"name":"Camino ciudad","order":37,"parentId":0,"scrollX":1092,"scrollY":641.3333333333334},
-{"id":38,"expanded":false,"name":"Ciudad","order":38,"parentId":0,"scrollX":1318,"scrollY":630},
+{"id":38,"expanded":false,"name":"Ciudad","order":38,"parentId":0,"scrollX":1318.6666666666667,"scrollY":630.6666666666666},
 {"id":39,"expanded":false,"name":"Ciudad-Anfiteatro","order":39,"parentId":0,"scrollX":1318.6666666666667,"scrollY":893.3333333333334},
 {"id":40,"expanded":false,"name":"Anfiteatro","order":40,"parentId":39,"scrollX":1081.3333333333333,"scrollY":798.6666666666666},
 {"id":41,"expanded":true,"name":"Casa1","order":41,"parentId":39,"scrollX":1089.3333333333333,"scrollY":634},
@@ -57,5 +57,5 @@ null,
 {"id":55,"expanded":false,"name":"Casa 3","order":55,"parentId":52,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":56,"expanded":true,"name":"Excavación","order":56,"parentId":49,"scrollX":1081.3333333333333,"scrollY":702.6666666666666},
 null,
-{"id":58,"expanded":false,"name":"Cueva de piedra","order":57,"parentId":56,"scrollX":1081.3333333333333,"scrollY":961.3333333333334}
+{"id":58,"expanded":false,"name":"Cueva de piedra","order":57,"parentId":56,"scrollX":1081.3333333333333,"scrollY":1230.6666666666667}
 ]
