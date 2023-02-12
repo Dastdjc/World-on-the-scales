@@ -67,11 +67,11 @@ null,
 {"id":65,"expanded":true,"name":"Casa 3","order":65,"parentId":62,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":66,"expanded":false,"name":"Casa 4","order":73,"parentId":62,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":67,"expanded":true,"name":"Batalla","order":70,"parentId":65,"scrollX":832,"scrollY":640},
-{"id":68,"expanded":false,"name":"Entrenamiento","order":69,"parentId":65,"scrollX":832,"scrollY":640},
+{"id":68,"expanded":false,"name":"Entrenamiento","order":69,"parentId":65,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":69,"expanded":true,"name":"Tiburnia","order":66,"parentId":65,"scrollX":1190.6666666666667,"scrollY":630.6666666666666},
 {"id":70,"expanded":true,"name":"Bosque","order":67,"parentId":65,"scrollX":1081.3333333333333,"scrollY":798.6666666666666},
 {"id":71,"expanded":false,"name":"Bosque","order":68,"parentId":70,"scrollX":1081.3333333333333,"scrollY":745.3333333333334},
 {"id":72,"expanded":true,"name":"Batalla","order":71,"parentId":67,"scrollX":1092,"scrollY":641.3333333333334},
-{"id":73,"expanded":true,"name":"Casa 3","order":72,"parentId":65,"scrollX":832,"scrollY":640},
+{"id":73,"expanded":true,"name":"Casa 3","order":72,"parentId":65,"scrollX":1092,"scrollY":641.3333333333334},
 {"id":74,"expanded":false,"name":"Casa 3 Post","order":74,"parentId":62,"scrollX":1092,"scrollY":641.3333333333334}
 ]
