@@ -80,7 +80,7 @@
 				var match = regex.exec(note[i]);
 				if (!match) continue;
 				this.stealableItems.push(match);
-			} 
+			}
 		}
 	};
 
@@ -140,7 +140,7 @@
 					modeRandSum += Number(stealData[3]);
 					if (modeRand <= modeRandSum)
 						if (Number(stealData[5]) > 0)
-							stealSucceeded = true;	
+							stealSucceeded = true;
 						else
 							break;
 				}
